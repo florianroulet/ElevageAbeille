@@ -25,3 +25,6 @@ https://fr.wikipedia.org/wiki/Apis_mellifera
 https://fr.wikipedia.org/wiki/Apiculture
 https://fr.wikipedia.org/wiki/Ruche
 https://fr.wikipedia.org/wiki/Syndrome_d%27effondrement_des_colonies_d%27abeilles
+
+
+https://twitter.com/LucifugesAnim/status/1645409453812989953 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages"
