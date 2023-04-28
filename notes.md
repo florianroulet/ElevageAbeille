@@ -28,3 +28,6 @@ https://fr.wikipedia.org/wiki/Syndrome_d%27effondrement_des_colonies_d%27abeille
 
 
 https://twitter.com/LucifugesAnim/status/1645409453812989953 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages"
+
+## Varoa
+https://www.apiculture-haut-bugey.com/?p=4544
