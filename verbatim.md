@@ -9,7 +9,7 @@ Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeil
 ## le rôle de l'apiculteur
 
 - survie de la colonie
-- réduction de la fièvre d'esseimage
+- réduction de la fièvre d'essaimage
 - 
 
 # l'équipement
