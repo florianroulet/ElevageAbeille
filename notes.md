@@ -7,6 +7,17 @@ pour produire 1kg de cire, les abeilles consomment 8 à 10kg de miel. Ce kilo de
 https://fr.wikipedia.org/wiki/Cire_d%27abeille
 https://www.lerucherlareinedesvosges.fr/blog/post/tout-savoir-sur-la-cire-dabeille-.html
 
+## production de miel
+
+Pour 1 kg de miel c’est :
+- 6 millions de fleurs visitées
+- 150 000km parcourus par environ 6000 abeilles
+- 1 abeille produira l’équivalent d’une petite cuillère de miel dans sa vie
+
+En 2017 en France, production de 20000T de miel, import de 34000T pour 4700T d'export.
+
+Pour la gelée royale, import de 170T (pour une production de ~ 3500kg)
+
 ## les produits de la ruche
 - miel
 - cire
@@ -18,16 +29,26 @@ https://www.lerucherlareinedesvosges.fr/blog/post/tout-savoir-sur-la-cire-dabeil
 ## l'abeille
 espèce déjà présente au paléocène (60. million d'années)
 
-
-
 https://fr.wikipedia.org/wiki/Buckfast
+
 https://fr.wikipedia.org/wiki/Apis_mellifera
+
 https://fr.wikipedia.org/wiki/Apiculture
+
 https://fr.wikipedia.org/wiki/Ruche
+
 https://fr.wikipedia.org/wiki/Syndrome_d%27effondrement_des_colonies_d%27abeilles
 
-
 https://twitter.com/LucifugesAnim/status/1645409453812989953 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages"
+
+### espérance de vie d'une abeille
+varie selon sa période de naissance
+|         |    |
+|:--------|:--:|
+|Printemps|20j |
+|Été      |40j |
+|Automne  |80j |
+|Hiver    |200j|
 
 ### cycle de développement des abeilles
        
