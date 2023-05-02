@@ -41,6 +41,15 @@ https://fr.wikipedia.org/wiki/Syndrome_d%27effondrement_des_colonies_d%27abeille
 
 https://twitter.com/LucifugesAnim/status/1645409453812989953 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages"
 
+
+### cycle de développement des abeilles
+       
+|             | oeuf | larve | prénymphe | nymphe |
+|:------------|:----:|:-----:|:---------:|:------:|
+|ouvrière     | 1-3  | 4-9   | 10-11     | 12-21  |
+|reine        | 1-3  | 4-9   | 10-11     | 12-16  |
+|faux bourdon | 1-3  | 4-10  | 11-13     | 14-24  |
+
 ### espérance de vie d'une abeille
 varie selon sa période de naissance
 |         |    |
@@ -50,13 +59,15 @@ varie selon sa période de naissance
 |Automne  |80j |
 |Hiver    |200j|
 
-### cycle de développement des abeilles
-       
-|             | oeuf | larve | prénymphe | nymphe |
-|:------------|:----:|:-----:|:---------:|:------:|
-|ouvrière     | 1-3  | 4-9   | 10-11     | 12-21  |
-|reine        | 1-3  | 4-9   | 10-11     | 12-16  |
-|faux bourdon | 1-3  | 4-10  | 11-13     | 14-24  |
+### rôles des ouvrières dans la ruche au cours de leur vie
+nettoyeuse
+nourrice
+architecte/cirière
+manutentionnaire
+ventileurse
+gardienne
+butineuse
+
 
 ## essaimage
 un essaimage avorté le 28/04/2023 après un enreuchement le 08/04/2023.
