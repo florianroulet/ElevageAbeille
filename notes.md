@@ -5,6 +5,7 @@ pour produire 1kg de cire, les abeilles consomment 8 à 10kg de miel. Ce kilo de
 ![plaquettes de cire produites par une abeille cirière https://apiscera.com/cire-d-abeille/](https://apiscera.com/wp-content/uploads/2019/03/abeille-cire-apis-cera.jpg)
 
 https://fr.wikipedia.org/wiki/Cire_d%27abeille
+
 https://www.lerucherlareinedesvosges.fr/blog/post/tout-savoir-sur-la-cire-dabeille-.html
 
 ## production de miel
@@ -72,6 +73,13 @@ butineuse
 ## essaimage
 un essaimage avorté le 28/04/2023 après un enreuchement le 08/04/2023.
 
+http://abeilles.apiculture.free.fr/essaimage.htm
+
+https://www.apiculture-haut-bugey.com/?p=4544
+
+https://www.apiculture-haut-bugey.com/wp-content/uploads/2017/09/fiche-technique-ADARA-encagement-reine-en-cage-Scalvini-2015.pdf
+
+https://www.frgds-occitanie.fr/IMG/pdf/10_l_encagement_de_la_reine.pdf
 
 ## Varoa
 https://www.apiculture-haut-bugey.com/?p=4544
