@@ -22,9 +22,10 @@ En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une 
 # Une petite histoire
 
 Comme je vous le disais juste avant, il y a de cela 18 mois, je n'avais jamais ouvert une ruche, j'étais plutôt (et je le suis encore) assez effrayé par les piqûres d'abeille, guêpes et autres frelons et jamais je n'aurais pensé trouver une activité de pleine nature avec un bonus alimentaire (oui, je parle du miel) qui d'un côté me fait craindre un peu et de l'autre apporte pas mal de sérénité.
-Ceux qui me connaissent savent que je suis actifs dans plusieurs associations de mon village, de l'APE au club de badminton en passant par l'association sportive et des coups de mains à l'école. Cela permet de connaitre pas mal de monde, notament plusieurs personnes qui ont fait des reconversions, dont un couple qui s'est lancé à plein temps dans l'apiculture.
-Après plusierus année d'apiculture amateurs, ils se sont lancé en professionnels sur la commune.
+
+Ceux qui me connaissent savent que je suis actifs dans plusieurs associations de mon village, de l'APE au club de badminton en passant par l'association sportive et des coups de mains à l'école. Cela permet de connaitre pas mal de monde, notament plusieurs personnes qui ont fait des reconversions, dont un couple qui s'est lancé à plein temps dans l'apiculture. Après plusieurs année d'apiculture amateurs, ils se sont lancé en professionnels sur la commune.
 En plus de leur activité, ils ont souhaité monter un rucher communal sur Saint Branchs pour faire connaitre les abeilles et le métier d'apiculteur sur le territoire.
+
 Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à gérer des colonnies, aller au contact de l'abeille m'a ténté dès les premières conversations que j'ai eu avec lui. Je me suis inscrit ne sachant pas trop où celà mènerait, avec pas mal précaution en prévenant que je n'étais pas sûr de réussir à être complètement serein devant un tas d'abeille se jetant sur moi à l'ouverture de la ruche. (oui, quand on ne connait pas, on arrive à se faire des images assez tordu des choses)
 
 5"00
