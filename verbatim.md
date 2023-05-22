@@ -30,10 +30,27 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 
 5"00
 
-
 # L'élevage des abeilles
 
-Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie 
+Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
+
+## La colonie d'abeille / l'abeille Apis Melifera
+
+Une colonie d'abeille, c'est un ensemble d'individu, dont le nombre va varier au cours de l'année de quelques centaines, à la saortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été). Dans cette colonie, on retrouve 3 catégories d'individus : 
+- Les ouvrières
+- La reine
+- Les faux bourdons
+
+Oui, une colonie est une très grande famille dans laquelle les millier d'individu ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
+
+
+### L'ouvrière
+
+### La reine
+
+### Le faux bourdon
+
+
 
 ## le rôle de l'apiculteur
 
