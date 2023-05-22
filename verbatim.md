@@ -33,7 +33,7 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 
 # L'élevage des abeilles
 
-Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, va permettre la survie de la colonie en échange de la récupération d'une partie 
+Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie 
 
 ## le rôle de l'apiculteur
 
