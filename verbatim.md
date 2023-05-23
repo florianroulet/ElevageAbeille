@@ -33,20 +33,34 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 # L'élevage des abeilles
 
 Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
+Mais alors, qu'est-ce que c'est le métier de l'apiculteur ? En quoi consiste cela consiste de s'assurer de la survie de ses colonies ? Et d'abord, c'est quoi une colonie ?
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
-Une colonie d'abeille, c'est un ensemble d'individu, dont le nombre va varier au cours de l'année de quelques centaines, à la saortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été). Dans cette colonie, on retrouve 3 catégories d'individus : 
+Une colonie d'abeille, c'est un ensemble d'individu, dont le nombre va varier au cours de l'année de quelques centaines, à la sortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été).
+
+Une colonie va vivre dans une ruche (on y reviendra plus tard à la ruche) sous la forme d'une sphère, un ballon réparti sur l'ensemble des cadres de la ruche. 
+Ce ballon va être plus ou moins grand selon la taille de la colonie. Une colonie en plein essort aura tendance à occuper toute la ruche, tandis qu'une colonie en sortie d'hivernage pourra parfois descendre à la taille d'un balle de tennis.
+
+ Dans cette colonie, on retrouve 3 catégories d'individus : 
 - Les ouvrières
 - La reine
 - Les faux bourdons
 
-Oui, une colonie est une très grande famille dans laquelle les millier d'individu ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
+Oui, une colonie est une très grande famille dans laquelle les milliers d'individus ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
 
+
+Mais quel va être le rôle de ces différents individus dans la colonie ? 
+
+### La reine
+
+La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeifs de mêle et donc amènera la colonie à sa perte.
+
+Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales.
 
 ### L'ouvrière
 
-### La reine
+
 
 ### Le faux bourdon
 
