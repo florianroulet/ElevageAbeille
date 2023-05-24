@@ -76,7 +76,7 @@ varie selon sa période de naissance
 
 
 ## essaimage
-un essaimage avorté le 28/04/2023 après un enreuchement le 08/04/2023.
+un essaimage avorté le 28/04/2023 après un enruchement le 08/04/2023.
 
 http://abeilles.apiculture.free.fr/essaimage.htm
 
