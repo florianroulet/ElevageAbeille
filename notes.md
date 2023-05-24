@@ -61,13 +61,18 @@ varie selon sa période de naissance
 |Hiver    |200j|
 
 ### rôles des ouvrières dans la ruche au cours de leur vie
-nettoyeuse
-nourrice
-architecte/cirière
-manutentionnaire
-ventileurse
-gardienne
-butineuse
+- nettoyeuse
+- nourrice / alimentation du couvain 
+- architecte/cirière/operculation du couvain
+- manutentionnaire / soin à la reine / soin aux ouvrière
+- alimentation des adultes
+- ventileuse
+- construction cellules cire
+- réception du nectar
+- amassage du pollen
+- stockage du nectar
+- gardienne
+- butineuse
 
 
 ## essaimage
