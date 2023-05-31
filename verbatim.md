@@ -111,5 +111,6 @@ Donc la reine est normalement la seule abeille fertile et fécondé d'une coloni
 - extracteur
 - seaux
 - bocaux
+- balance
 
 
