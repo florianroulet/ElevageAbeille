@@ -76,10 +76,40 @@ Donc la reine est normalement la seule abeille fertile et fécondé d'une coloni
 
 ## équipement de l'apiculteur
 
+- La tenue
+- les gants,
+- les chaussures (hautes)
+- Le lève-cadre
+- L'enfumoir
+
 ## la ruche
+
+- le plancher
+- le corps
+- les cadres gaufrés
+- les cadres construits
+- les cadres d'élevage
+- les partitions
+- la grille à reine
+- la hausse
+- les cadres de hausse
+- le nourrisseur
+- le couvre cadre
+- l'isoruche
+- le toit galva
+
+# la récolte
+
+- chasse abeille
+- brosse à abeille
+- souffleur
 
 ## l'extraction
 
+- bac à désoperculer
+- couteau à désoperculer
+- extracteur
+- seaux
+- bocaux
 
-# la récolte
 
