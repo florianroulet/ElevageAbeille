@@ -58,12 +58,32 @@ La reine est la mère de l'ensemble des individus de la colonie. Elle est normal
 
 Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales.
 
+Son espérance de vie est de 4 à 5 ans. Son abdomen allongé la différencie des autres abeilles dans la ruche, mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
+
 ### L'ouvrière
 
+L'ouvrière est la population principale de la ruche. Son rôle évoluera selon son âge, 
 
+#### rôles des ouvrières dans la ruche au cours de leur vie
+- nettoyeuse (~5 jours)
+- nourrice / alimentation du couvain (5-15 jours)
+- architecte/cirière/operculation du couvain ((1-10 jours)
+- manutentionnaire / soin à la reine / soin aux ouvrière (1-17 jours)
+- alimentation des adultes (1-20 jours)
+- ventileuse (1-25 jours)
+- construction cellules cire (1-20 jours)
+- réception du nectar (10-25 jours)
+- amassage du pollen (10-25 jours)
+- stockage du nectar (10-25 jours)
+- gardienne (10-25 jours)
+- butineuse (10-25 jours)
+
+
+L'espérance de vie d'une ouvrière varie selon sa période de naissance, qui définira sa charge de travail tout au long de sa vie, de 20 jours pour une ouvrière de printemps, 40 jours pour une ouvrière d'été, 80 d'automne et 200 jours pour une ouvrière d'hiver.
 
 ### Le faux bourdon
 
+Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonnie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours.
 
 
 ## le rôle de l'apiculteur
