@@ -32,8 +32,10 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 
 # L'élevage des abeilles
 
-Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
+Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
 Mais alors, qu'est-ce que c'est le métier de l'apiculteur ? En quoi consiste cela consiste de s'assurer de la survie de ses colonies ? Et d'abord, c'est quoi une colonie ?
+
+6"00
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
@@ -52,45 +54,64 @@ Oui, une colonie est une très grande famille dans laquelle les milliers d'indiv
 
 Mais quel va être le rôle de ces différents individus dans la colonie ? 
 
+7"00
+
 ### La reine
 
-La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeifs de mêle et donc amènera la colonie à sa perte.
+La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
-Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales.
+Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, Car dès que la colonnie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
-Son espérance de vie est de 4 à 5 ans. Son abdomen allongé la différencie des autres abeilles dans la ruche, mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
+Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
+
+9"00
+
+Les couleurs de marquage normalisé sont 
+- Bleu pour les années en 0 ou 5
+- Blanc pour les années en 1 ou 6
+- Jaune pour les années en 2 ou 7
+- Rouge pour les années en 3 ou 8
+- Vert pour les années en 4 ou 9
+
+Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. Ont essayera de ne pas garder des cadres plus de 3 à 4 pour limiter les risques de maladies.
+
+Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonnie, pondre pour renouveller et agrandir la population de la colonnie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
+
+10"00
+
+### Le faux bourdon
+
+Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonnie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
+
+On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles.
+
+11"00
 
 ### L'ouvrière
 
-L'ouvrière est la population principale de la ruche. Son rôle évoluera selon son âge, 
+L'ouvrière est la population principale de la ruche. L'espérance de vie d'une ouvrière varie selon sa période de naissance, qui définira sa charge de travail tout au long de sa vie, de 20 jours pour une ouvrière de printemps, 40 jours pour une ouvrière d'été, 80 d'automne et 200 jours pour une ouvrière d'hiver dont le rôle sera d'assurer la survie de la colonie jusqu'au printemps suivant.
 
-#### rôles des ouvrières dans la ruche au cours de leur vie
+Son rôle évoluera selon son âge, les durées que je vais vous donner son une probabilité qu'elle joue ce rôle jusqu'à l'âge limite où elle laissera les plus jeunes jouer ce rôle.
 - nettoyeuse (~5 jours)
 - nourrice / alimentation du couvain (5-15 jours)
-- architecte/cirière/operculation du couvain ((1-10 jours)
-- manutentionnaire / soin à la reine / soin aux ouvrière (1-17 jours)
-- alimentation des adultes (1-20 jours)
-- ventileuse (1-25 jours)
-- construction cellules cire (1-20 jours)
+- architecte/cirière/operculation du couvain (2-10 jours)
+- manutentionnaire / soin à la reine / soin aux ouvrière (2-17 jours)
+- alimentation des adultes (2-20 jours)
+- ventileuse (2-25 jours)
+- construction cellules cire (2-20 jours)
 - réception du nectar (10-25 jours)
 - amassage du pollen (10-25 jours)
 - stockage du nectar (10-25 jours)
 - gardienne (10-25 jours)
 - butineuse (10-25 jours)
 
-
-L'espérance de vie d'une ouvrière varie selon sa période de naissance, qui définira sa charge de travail tout au long de sa vie, de 20 jours pour une ouvrière de printemps, 40 jours pour une ouvrière d'été, 80 d'automne et 200 jours pour une ouvrière d'hiver.
-
-### Le faux bourdon
-
-Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonnie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours.
-
+15"00
 
 ## le rôle de l'apiculteur
 
 - survie de la colonie
 - réduction de la fièvre d'essaimage
-- 
+- prévenir les risques sanitaires
 
 # l'équipement
 
