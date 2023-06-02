@@ -73,7 +73,7 @@ Les couleurs de marquage normalisé sont
 - Rouge pour les années en 3 ou 8
 - Vert pour les années en 4 ou 9
 
-Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. Ont essayera de ne pas garder des cadres plus de 3 à 4 pour limiter les risques de maladies.
+Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. Ont essayera de ne pas garder des cadres plus de 3 à 4 ans pour limiter les risques de maladies.
 
 Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonnie, pondre pour renouveller et agrandir la population de la colonnie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
 
