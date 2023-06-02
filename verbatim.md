@@ -115,11 +115,14 @@ Son rôle évoluera selon son âge, les durées que je vais vous donner son une 
 
 # l'équipement
 
-## équipement de l'apiculteur
+## les EPI
 
 - La tenue
 - les gants,
 - les chaussures (hautes)
+
+## les outils de l'apiculteur à la ruche
+
 - Le lève-cadre
 - L'enfumoir
 
