@@ -83,7 +83,7 @@ Le rôle de la reine est donc multiple, garder une cohésion au sein de la colon
 
 Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonnie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
 
-On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles.
+On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d el'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
 11"00
 
