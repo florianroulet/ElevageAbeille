@@ -85,7 +85,7 @@ Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une a
 
 On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d el'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
-11"00
+12"00
 
 ### L'ouvrière
 
