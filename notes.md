@@ -88,3 +88,8 @@ https://www.frgds-occitanie.fr/IMG/pdf/10_l_encagement_de_la_reine.pdf
 
 ## Varoa
 https://www.apiculture-haut-bugey.com/?p=4544
+
+## Questions subsidiaires : 
+
+- L'abeille meure-t-elle après avoir piqué ? Pas obligatoirement : https://fr.wikipedia.org/wiki/Apis_mellifera#Agressivit%C3%A9
+
