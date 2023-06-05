@@ -45,6 +45,8 @@ Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arri
 
 Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce qu'il nous faut pour faire une ruche ?
 
+7"00 
+
 ## la ruche
 
 - le plancher
@@ -58,15 +60,19 @@ Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce q
 - l'isoruche
 - le toit galva
 
+10"00
+
+## transfert dans la ruche
+
 Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de tranvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que cest une colonie ?
 
-7"00
+11"00
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
 Une colonie d'abeille, c'est un ensemble d'individu, dont le nombre va varier au cours de l'année de quelques centaines, à la sortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été).
 
-Une colonie va vivre dans une ruche (on y reviendra plus tard à la ruche) sous la forme d'une sphère, un ballon réparti sur l'ensemble des cadres de la ruche. 
+Une colonie va vivre dans une ruche sous la forme d'une sphère, un ballon réparti sur l'ensemble des cadres de la ruche. 
 Ce ballon va être plus ou moins grand selon la taille de la colonie. Une colonie en plein essort aura tendance à occuper toute la ruche, tandis qu'une colonie en sortie d'hivernage pourra parfois descendre à la taille d'un balle de tennis.
 
  Dans cette colonie, on retrouve 3 catégories d'individus : 
@@ -76,20 +82,19 @@ Ce ballon va être plus ou moins grand selon la taille de la colonie. Une coloni
 
 Oui, une colonie est une très grande famille dans laquelle les milliers d'individus ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
 
-
 Mais quel va être le rôle de ces différents individus dans la colonie ? 
 
-8"00
+12"30
 
 ### La reine
 
 La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
-Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, Car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
+Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
 Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
 
-10"00
+14"00
 
 Les couleurs de marquage normalisé sont 
 - Bleu pour les années en 0 ou 5
@@ -102,15 +107,15 @@ Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement 
 
 Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonie, pondre pour renouveller et agrandir la population de la colonie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
 
-11"00
+15"00
 
 ### Le faux bourdon
 
 Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
 
-On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d el'accouplement ou sera rejeté des colonies si il essaye de revenir.
+On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d e l'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
-12"00
+16"30
 
 ### L'ouvrière
 
@@ -130,23 +135,25 @@ Son rôle évoluera selon son âge, les durées que je vais vous donner son une 
 - gardienne (10-25 jours)
 - butineuse (10-25 jours)
 
-15"00
+18"00
 
 # Retour à l'enruchement
 
 Comme on viens de voir, on va s'assurer le jour de l'enruchement que notre colonie est saine, contient bien une reine qui nous assure une bonne ponte et un renouvellement de la colonie, un nombre d'ouvrière conséquent, quelques mâles pour assurer la fécondation de future éventuelles reines vierges et si les conditions sont bonnes, des réserves de nourriture.
 
-Pour moi, tout allait bien début avril lors de l'enruchement. J'ai pu me permettre même de conserver les butineuses en allant fermer la ruche sur le rucher le soir avant de ramener les ruches dans mon jardin le lendemain matin. Oui, car lorsque l'on va chercher une colonie, si l'apiculteur qui vend les colonies se trouve "loin", on ne peux pas se permettre de faire plusieurs aller-retour, on transvase la colonie, on ferme la ruche et on l'emmène. Ce n'était pas mon cas, car j'habite juste à quelques kilomètres du rucher de l'apiculteur qui m'a vendu les colonies.
+Pour moi, tout allait bien début avril lors de l'enruchement. J'ai pu me permettre même de conserver les butineuses en allant fermer la ruche sur le rucher de l'apiculteur le soir avant de ramener les ruches dans mon jardin le lendemain matin. Oui, car lorsque l'on va chercher une colonie, si l'apiculteur qui vend les colonies se trouve "loin", on ne peux pas se permettre de faire plusieurs aller-retour, on transvase la colonie, on ferme la ruche et on l'emmène. Ce n'était pas mon cas, car j'habite juste à quelques kilomètres du rucher de l'apiculteur qui m'a vendu les colonies.
 
-Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de son rucher d'origine, sinon les butineuses retournerais au rucher d'origine et ce serait une partie de la colonie en moins pour la ruche. Une butineuse parcour en moyenne 1,5km, donc il est nécessaire lors d'un déplacement de ruche de déplacer à plus de 1,5km, ou bien de mettre la ruche (fermée bien sûr) en cave pendant 2-3 jours le temps de remettre à zéro le gps des butineuses.
+Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de son rucher d'origine, sinon les butineuses retournerais au rucher d'origine et ce serait une partie de la colonie en moins pour la ruche. Une butineuse parcours en moyenne 1,5km, donc il est nécessaire lors d'un déplacement de ruche de déplacer à plus de 1,5km, ou bien de mettre la ruche (fermée bien sûr) en cave pendant 2-3 jours le temps de remettre à zéro le gps des butineuses.
+
+20"30
 
 # Les visites hebdomadaires
 
 Une fois mes ruches installées au fond de mon jardin, je vais devoir m'en occuper. Il existe plusieurs écoles de pensées dans la façon de s'occuper de ses colonies. Certains apiculteurs auront tendance à laisser faire, d'autres à intervenir régulièrement. Je serais plutôt dans la seconde catégorie, sachant que chaque intervention dans la ruche nous coûte en miel. En effet, lorsque l'on intervient, on va casser des parties de cire de la ruche que les abeilles devront reconstruire, et on dit qu'un kilo de cire créé par les abeilles, c'est 10 kilos de miel non produit. Donc il faut trouver le juste milieu entre intervenir assez pour que la colonie se porte bien, mais pas trop pour ne pas l'empêcher de faire son oeuvre.
 
-Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bien pour réduire la fièvre d'essaimage et ne pas laisser les colonies en désuétude.
+Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bien pour réduire la fièvre d'essaimage et ne pas laisser les colonies en désuétude et pour moi, profiter de l'activité sans en faire une gageure.
 
-
+22"00
 
 
 
