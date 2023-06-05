@@ -218,6 +218,8 @@ Pendant ces quelques semaines, le printemps s'est bien installé et la nature fl
 
 Pour ma première saison, je part de 0, les abeilles doivent donc tout construire. Je leur ai posé des cadres gaufrés, a elle d'étirer la cire et de remplir les cadres pour stocker du bon miel de printemps. Les visites hebsdomadaire continuent pour s'assurer que tout se passe bien dans le corps de ruche. Et j'ai pu la semaine dernière débuter ma première récolte.
 
+33"30
+
 # la récolte
 
 La récolte se passe en plusieurs fois. La première étape est d'aller chercher les hausses avec les cadres de miel au rucher mais sans les abeilles. Pour cela, on a différentes options en fonction que l'on pourra choisir en fonction du nombre de ruche que l'on a.
@@ -231,9 +233,11 @@ On s'assure lors de la récolte du degré d'humidité du miel à l'aide d'un ré
 
 Une fois la récolte faite, on peux passer à l'extraction.
 
+39"00
+
 # l'extraction
 
-Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage de la cire à la centrifugation des cadres, la but est de récupérer le miel stocké par les abeilles.
+Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage des rayons de cire à la centrifugation des cadres, le but est de récupérer le miel stocké par les abeilles.
 
 On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va enlever l'opercule des cadres, ce qui va permettre au miel de sortir des alvéoles. On passera ensuite les cadres dans une centrifugeuse qui fera sortir le miel qui sera ensuite filtré avant sa mise en seaux ou pot directement.
 
@@ -244,7 +248,7 @@ On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va e
 - bocaux
 - balance
 
-
+41"00
 
 
 
