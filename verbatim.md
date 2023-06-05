@@ -43,7 +43,7 @@ Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arri
 
 Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de tranvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que cest une colonie ?
 
-6"00
+7"00
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
