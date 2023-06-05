@@ -62,7 +62,7 @@ Oui, une colonie est une très grande famille dans laquelle les milliers d'indiv
 
 Mais quel va être le rôle de ces différents individus dans la colonie ? 
 
-7"00
+8"00
 
 ### La reine
 
@@ -72,7 +72,7 @@ Donc la reine est normalement la seule abeille fertile et fécondé d'une coloni
 
 Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
 
-9"00
+10"00
 
 Les couleurs de marquage normalisé sont 
 - Bleu pour les années en 0 ou 5
@@ -85,7 +85,7 @@ Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement 
 
 Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonie, pondre pour renouveller et agrandir la population de la colonie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
 
-10"00
+11"00
 
 ### Le faux bourdon
 
