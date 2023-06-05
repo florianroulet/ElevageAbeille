@@ -194,7 +194,7 @@ La destruction des cellules permet de limiter la fièvre d'essaimage, mais il ne
 
 A priori, c'est ce qui m'est arrivé fin avril. Le temps que je visite mes deux ruches, j'ai pu voir que la plus populeuse avait bien diminué en abeille et constaté l'absence de la reine au sein de la ruche.
 
-Mais par chance, la météo n'était pas favorable aux abeilles essaimeuse. Pendant que je visitais la deuxième ruche, un phénomène rare s'est produit. Malgré les messages rassurant de mon maitre apiculteur me disant que la grappe n'allait pas s'envoler avant plusieurs heures du cerisier, l'essaim s'est renvolé pour retourner dans un vol de millier d'abeille dans sa ruche d'origine.
+Mais par chance, la météo n'était pas favorable aux abeilles essaimeuse. Pendant que je visitais la deuxième ruche, un phénomène rare s'est produit. Malgré les messages rassurant de mon maitre apiculteur me disant que la grappe n'allait pas s'envoler avant plusieurs heures du cerisier, que j'avais le temps d'aller acheter une ruchette, l'essaim s'est renvolé pour retourner dans un vol de millier d'abeille dans sa ruche d'origine.
 Ma colonie était sauve, ma reine récupérée, mais la ruche était encore en surpopulation. Il fallait donc créer un essaim artificiel.
 
 ### Un nouvel essaim
