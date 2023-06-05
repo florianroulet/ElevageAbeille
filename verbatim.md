@@ -184,7 +184,9 @@ Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qu
 
 L'essaimage est le moyen naturel de reproduction des colonies. Il est déclenché lors d'une surpopulation d'abeille dans la ruche. Les phéromones royales ne parviennent pas à l'ensemble de la colonie qui décide alors d'élever une nouvelle reine. L'ancienne reine quittera la colonie avec une bonne moitié des abeilles pour aller fonder une nouvelle colonie. 
 
-L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif. 
+L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif.
+
+28"00
 
 Pour limiter l'essaimage, l'apiculteur va réaliser plusieurs actions dans la ruche lors de ses visites. La première chose est, lors des visites hebdomadaires, de s'assurer de la présence de la ponte et / ou de la reine. Ensuite de vérifier la présence de cellules royales au sein du couvain. Une cellule royale se présente sous la forme d'une "cacahouette" posé sur le couvain. La présence de cellule indique que la colonie est en train d'élever une nouvelle reine. 
 
