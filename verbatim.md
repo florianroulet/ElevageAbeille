@@ -41,6 +41,21 @@ Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se
 La première rencontre entre un néo-apiculteur et ses colonies se passe le jour de l'enruchement. L'enruchement est l'action de transférer une colonie d'abeille de sa ruche actuelle, qui appartient à l'éleveur d'origine, à sa ruche définitive (la mienne quoi). 
 Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arrivé en me garant un peu trop près du rucher, et ça a commencé dès la descente de la voiture par une piqûre juste au dessus de la paupière qui m'a valu un oeil gonflé impossible à ouvrir pendant trois jours.
 
+Mais que faut-il pour faire une ruche ? 
+
+## la ruche
+
+- le plancher
+- le corps
+- les cadres gaufrés
+- les cadres construits
+- les cadres d'élevage
+- les partitions
+- le nourrisseur
+- le couvre cadre
+- l'isoruche
+- le toit galva
+
 Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de tranvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que cest une colonie ?
 
 7"00
@@ -125,6 +140,11 @@ Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de 
 
 # Les visites hebdomadaires
 
+Une fois mes ruches installées au fond de mon jardin, je vais devoir m'en occuper. Il existe plusieurs écoles de pensées dans la façon de s'occuper de ses colonies. Certains apiculteurs auront tendance à laisser faire, d'autres à intervenir régulièrement. Je serais plutôt dans la seconde catégorie, sachant que chaque intervention dans la ruche nous coûte en miel. En effet, lorsque l'on intervient, on va casser des parties de cire de la ruche que les abeilles devront reconstruire, et on dit qu'un kilo de cire créé par les abeilles, c'est 10 kilos de miel non produit. Donc il faut trouver le juste milieu entre intervenir assez pour que la colonie se porte bien, mais pas trop pour ne pas l'empêcher de faire son oeuvre.
+
+Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bien pour réduire la fièvre d'essaimage et ne pas laisser les colonies en désuétude.
+
+
 
 
 
@@ -147,21 +167,11 @@ Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de 
 - Le lève-cadre
 - L'enfumoir
 
-## la ruche
+## la hausse pour la récolte du miel
 
-- le plancher
-- le corps
-- les cadres gaufrés
-- les cadres construits
-- les cadres d'élevage
-- les partitions
 - la grille à reine
 - la hausse
 - les cadres de hausse
-- le nourrisseur
-- le couvre cadre
-- l'isoruche
-- le toit galva
 
 # la récolte
 
