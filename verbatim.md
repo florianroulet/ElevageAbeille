@@ -43,7 +43,7 @@ Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se
 La première rencontre entre un néo-apiculteur et ses colonies se passe le jour de l'enruchement. L'enruchement est l'action de transférer une colonie d'abeille de sa ruche actuelle, qui appartient à l'éleveur d'origine, à sa ruche définitive (la mienne quoi). 
 Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arrivé en me garant un peu trop près du rucher, et ça a commencé dès la descente de la voiture par une piqûre juste au dessus de la paupière qui m'a valu un oeil gonflé impossible à ouvrir pendant trois jours.
 
-Mais que faut-il pour faire une ruche ? 
+Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce qu'il nous faut pour faire une ruche ?
 
 ## la ruche
 
