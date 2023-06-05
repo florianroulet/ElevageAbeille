@@ -26,14 +26,22 @@ Comme je vous le disais juste avant, il y a de cela 18 mois, je n'avais jamais o
 Ceux qui me connaissent savent que je suis actifs dans plusieurs associations de mon village, de l'APE au club de badminton en passant par l'association sportive et des coups de mains à l'école. Cela permet de connaitre pas mal de monde, notament plusieurs personnes qui ont fait des reconversions, dont un couple qui s'est lancé à plein temps dans l'apiculture. Après plusieurs années d'apiculture en amateur, ils se sont lancé en professionnels sur la commune.
 En plus de leur activité, ils ont souhaité monter un rucher communal sur Saint Branchs pour faire connaitre les abeilles et le métier d'apiculteur sur le territoire.
 
-Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à gérer des colonnies, aller au contact de l'abeille m'a ténté dès les premières conversations que j'ai eu avec lui. Je me suis inscrit ne sachant pas trop où celà mènerait, avec pas mal précaution en prévenant que je n'étais pas sûr de réussir à être complètement serein devant un tas d'abeille se jetant sur moi à l'ouverture de la ruche. (oui, quand on ne connait pas, on arrive à se faire des images assez tordu des choses)
+Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à gérer des colonies, aller au contact de l'abeille m'a ténté dès les premières conversations que j'ai eu avec lui. Je me suis inscrit ne sachant pas trop où celà mènerait, avec pas mal précaution en prévenant que je n'étais pas sûr de réussir à être complètement serein devant un tas d'abeille se jetant sur moi à l'ouverture de la ruche. (oui, quand on ne connait pas, on arrive à se faire des images assez tordu des choses)
 
 5"00
 
 # L'élevage des abeilles
 
-Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vie d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
-Mais alors, qu'est-ce que c'est le métier de l'apiculteur ? En quoi consiste cela consiste de s'assurer de la survie de ses colonies ? Et d'abord, c'est quoi une colonie ?
+Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vit d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
+
+Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril où j'ai installé mes deux ruches au fond de mon jardin.
+
+# L'enruchement
+
+La première rencontre entre un néo-apiculteur et ses colonies se passe le jour de l'enruchement. L'enruchement est l'action de transférer une colonie d'abeille de sa ruche actuelle, qui appartient à l'éleveur d'origine, à sa ruche définitive (la mienne quoi). 
+Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arrivé en me garant un peu trop près du rucher, et ça a commencé dès la descente de la voiture par une piqûre juste au dessus de la paupière qui m'a valu un oeil gonflé impossible à ouvrir pendant trois jours.
+
+Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de tranvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que cest une colonie ?
 
 6"00
 
@@ -60,7 +68,7 @@ Mais quel va être le rôle de ces différents individus dans la colonie ?
 
 La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
-Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, Car dès que la colonnie perd sa reine, elle va chercher à la remplacer au plus tôt.
+Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, Car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
 Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
 
@@ -75,13 +83,13 @@ Les couleurs de marquage normalisé sont
 
 Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. Ont essayera de ne pas garder des cadres plus de 3 à 4 ans pour limiter les risques de maladies.
 
-Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonnie, pondre pour renouveller et agrandir la population de la colonnie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
+Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonie, pondre pour renouveller et agrandir la population de la colonie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
 
 10"00
 
 ### Le faux bourdon
 
-Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonnie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
+Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
 
 On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d el'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
