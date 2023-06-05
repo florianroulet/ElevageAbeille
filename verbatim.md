@@ -36,6 +36,8 @@ Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeil
 
 Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril où j'ai installé mes deux ruches au fond de mon jardin.
 
+6"00
+
 # L'enruchement
 
 La première rencontre entre un néo-apiculteur et ses colonies se passe le jour de l'enruchement. L'enruchement est l'action de transférer une colonie d'abeille de sa ruche actuelle, qui appartient à l'éleveur d'origine, à sa ruche définitive (la mienne quoi). 
