@@ -171,18 +171,34 @@ Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je v
 
 Je prend mes outils : 
 
-## les outils de l'apiculteur à la ruche
+### les outils de l'apiculteur à la ruche
 
 - Le lève-cadre
 - L'enfumoir
 
-Et je vais voir mes ruches. Avant d'arriver aux ruche, je vois quelque chose qui ne me plait pas du tout dans le cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. 
+Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans le cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
+## l'essaimage
 
+L'essaimage est le moyen naturel de reproduction des colonies. Il est déclenché lors d'une surpopulation d'abeille dans la ruche. Les phéromones royales ne parviennent pas à l'ensemble de la colonie qui décide alors d'élever une nouvelle reine. L'ancienne reine quittera la colonie avec une bonne moitié des abeilles pour aller fonder une nouvelle colonie. 
 
+L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif. 
 
+Pour limiter l'essaimage, l'apiculteur va empĉher plusieurs choses dans la ruche lors de ses visites. La première chose est, lors des visites hebdomadaires, de vérifier la présence de cellules royales au sein du couvain. Une cellule royale se présente sous la forme d'une "cacahouette" posé sur le couvain. La présence de cellule indique que la colonie est en train d'élever une nouvelle reine. 
 
+La destruction des cellules permet de limiter la fièvre d'essaimage, mais il ne faut pas louper de cellule, sinon, la vieille reine sera bouté hors de la ruche.
 
+A priori, c'est ce qui m'est arrivé fin avril. Le temps que je visite mes deux ruches, j'ai pu voir que la plus populeuse avait bien diminué en abeille et constaté l'absence de la reine au sein de la ruche.
+
+Mais par chance, la météo n'était pas favorable aux abeilles essaimeuse. Pendant que je visitais la deuxième ruche, un phénomène rare s'est produit. Malgré les messages rassurant de mon maitre apiculteur me disant que la grappe n'allait pas s'envoler avant plusieurs heures du cerisier, l'essaim s'est renvolé pour retourner dans un vol de millier d'abeille dans sa ruche d'origine.
+Ma colonie était sauve, ma reine récupérée, mais la ruche était encore en surpopulation. Il fallait donc créer un essaim artificiel.
+
+### Un nouvel essaim
+
+Le but était maintenant de diminuer la fièvre d'essaimage dans cette ruche. J'avais à ma disposition dans la ruche trois cellules royales, de quoi élever une nouvelle reine vierge ! 
+Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois cadres de couvain de mes deux ruches, avec les abeilles sur ces cadres, et emmené tout ce petit monde à quelques kilomètres de là, chez mon père qui allait faire nourrice pendant quelques semaines, le temps que la nouvelle reine naisse et fasse sont vol nuptial.
+
+## Pendant ce temps, à Vera Cruzz (Saint Branchs)
 
 
 
