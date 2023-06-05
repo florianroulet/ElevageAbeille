@@ -155,6 +155,39 @@ Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bie
 
 22"00
 
+## trois semaines plus tard
+
+Les premières visites hebdomadaire se passent à merveille. Les colonies sont populeuses, ce qui, si la météo est bonne, permettra de bonnes récoltes. Je trouve la reine à chaque fois, du couvain, ouvert et fermé. Par contre, j'ai beaucoup de mâles. Nous somme dans une année à essaimage me confirme mon maitre l'apiculteur. La météo, soit à la pluie, soit au fort vent en ce printemps, fait que les butineuses ne sortent pas et que la population diurne des ruches est trop importante, cela pousse les colonies à jeter la reine dehors pour qu'elle aille fonder une nouvelle colonie, c'est l'essaimage.
+
+Vous devinez ce qui va m'arriver ? 
+
+Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je vois que quelque chose n'est pas normal. Ça vole de partout au fond du jardin. Pas trop le temps de réfléchir, je vais faire ma visite pour essayer de comprendre ce qu'il se passe. J'enfile l'ensemble de mes équipements : 
+
+### les EPI
+
+- La combinaison,
+- les gants,
+- les chaussures (hautes)
+
+Je prend mes outils : 
+
+## les outils de l'apiculteur à la ruche
+
+- Le lève-cadre
+- L'enfumoir
+
+Et je vais voir mes ruches. Avant d'arriver aux ruche, je vois quelque chose qui ne me plait pas du tout dans le cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## le rôle de l'apiculteur
@@ -162,19 +195,6 @@ Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bie
 - survie de la colonie
 - réduction de la fièvre d'essaimage
 - prévenir les risques sanitaires
-
-# l'équipement
-
-## les EPI
-
-- La tenue
-- les gants,
-- les chaussures (hautes)
-
-## les outils de l'apiculteur à la ruche
-
-- Le lève-cadre
-- L'enfumoir
 
 ## la hausse pour la récolte du miel
 
