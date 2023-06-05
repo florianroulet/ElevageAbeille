@@ -15,7 +15,7 @@ Pour ma part, il y a un peu plus d'un an de cela, je n'avais jamais ouvert une r
 
 Je voulais aussi poser une phrase avant de rentrer dans le vif du sujet. Elle n'est pas de moi, je l'ai vu sur le profil d'un certain "Lucifuge" sur twitter : 
 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages".
-En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une représentante de la très grande famille des polénisateurs. En effet, on recense dans le monde 20.000 espèces d'abeilles, dont 1000 en France. La majorité sont des abeilles solitaires et ne fondent pas de colonie pérenne (au sens de la survie d'une année à l'autre). Si vous souhaitez aider à sauvegarder les polinisateurs, je vous invite plutôt à regarder du côté des hotels à insectes, tontes modéré et autres friches sauvages.
+En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une représentante de la très grande famille des polénisateurs. En effet, on recense dans le monde 20.000 espèces d'abeilles, dont 1000 en France. La majorité sont des abeilles solitaires et ne fondent pas de colonie pérenne (au sens de la survie d'une année à l'autre). Si vous souhaitez aider à sauvegarder les polinisateurs, je vous invite plutôt à regarder du côté des hotels à insectes, tontes modéré et autres jachères fleuries.
 
 2"35
 
