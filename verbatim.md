@@ -186,7 +186,7 @@ L'essaimage est le moyen naturel de reproduction des colonies. Il est déclench�
 
 L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif. 
 
-Pour limiter l'essaimage, l'apiculteur va réaliser plusieurs dans la ruche lors de ses visites. La première chose est, lors des visites hebdomadaires, de vérifier la présence de cellules royales au sein du couvain. Une cellule royale se présente sous la forme d'une "cacahouette" posé sur le couvain. La présence de cellule indique que la colonie est en train d'élever une nouvelle reine. 
+Pour limiter l'essaimage, l'apiculteur va réaliser plusieurs actions dans la ruche lors de ses visites. La première chose est, lors des visites hebdomadaires, de vérifier la présence de cellules royales au sein du couvain. Une cellule royale se présente sous la forme d'une "cacahouette" posé sur le couvain. La présence de cellule indique que la colonie est en train d'élever une nouvelle reine. 
 
 La destruction des cellules permet de limiter la fièvre d'essaimage, mais il ne faut pas louper de cellule, sinon, la vieille reine sera bouté hors de la ruche.
 
