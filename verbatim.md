@@ -178,6 +178,8 @@ Je prend mes outils :
 
 Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans le cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
+27"00
+
 ## l'essaimage
 
 L'essaimage est le moyen naturel de reproduction des colonies. Il est déclenché lors d'une surpopulation d'abeille dans la ruche. Les phéromones royales ne parviennent pas à l'ensemble de la colonie qui décide alors d'élever une nouvelle reine. L'ancienne reine quittera la colonie avec une bonne moitié des abeilles pour aller fonder une nouvelle colonie. 
