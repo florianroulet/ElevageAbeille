@@ -208,7 +208,7 @@ Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois
 
 ## Pendant ce temps, à Vera Cruzz (Saint Branchs)
 
-Pendant ces quelques semaines, le printemps s'est bien installé et la nature fleurissait de partout. J'ai donc pu installer mes hausses sur les ruches.
+Pendant ces quelques semaines, le printemps s'est bien installé et la nature fleurissait de partout. J'ai donc pu installer mes hausses sur les ruches. Les hausses sont le grenier à miel que l'on va "voler" aux abeilles pour récolter le miel.
 
 ### la hausse pour la récolte du miel
 
