@@ -208,6 +208,41 @@ Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois
 
 ## Pendant ce temps, à Vera Cruzz (Saint Branchs)
 
+Pendant ces quelques semaines, le printemps s'est bien installé et la nature fleurissait de partout. J'ai donc pu installer mes hausses sur les ruches.
+
+### la hausse pour la récolte du miel
+
+- la grille à reine
+- la hausse
+- les cadres de hausse
+
+Pour ma première saison, je part de 0, les abeilles doivent donc tout construire. Je leur ai posé des cadres gaufrés, a elle d'étirer la cire et de remplir les cadres pour stocker du bon miel de printemps. Les visites hebsdomadaire continuent pour s'assurer que tout se passe bien dans le corps de ruche. Et j'ai pu la semaine dernière débuter ma première récolte.
+
+# la récolte
+
+La récolte se passe en plusieurs fois. La première étape est d'aller chercher les hausses avec les cadres de miel au rucher mais sans les abeilles. Pour cela, on a différentes options en fonction que l'on pourra choisir en fonction du nombre de ruche que l'on a.
+
+- chasse abeille
+- brosse à abeille
+- souffleur
+
+On récupère donc nos hausses avec les cadres plein de miel. Les cellules de miel operculé dépassent largement les bord du cadre. Chaque cadre plein peux dépasser le kilo de miel et chaque hausse peut atteindre 13 kilo.
+On s'assure lors de la récolte du degré d'humidité du miel à l'aide d'un réfractomètre. un taux inférieur à 18,5% nous assurera d'un miel qui ne tournera pas vinaigre.
+
+Une fois la récolte faite, on peux passer à l'extraction.
+
+# l'extraction
+
+Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage de la cire à la centrifugation des cadres, la but est de récupérer le miel stocké par les abeilles.
+
+On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va enlever l'opercule des cadres, ce qui va permettre au miel de sortir des alvéoles. On passera ensuite les cadres dans une centrifugeuse qui fera sortir le miel qui sera ensuite filtré avant sa mise en seaux ou pot directement.
+
+- bac à désoperculer
+- couteau à désoperculer
+- extracteur/centrifugeuse
+- seaux
+- bocaux
+- balance
 
 
 
@@ -220,25 +255,8 @@ Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois
 - réduction de la fièvre d'essaimage
 - prévenir les risques sanitaires
 
-## la hausse pour la récolte du miel
 
-- la grille à reine
-- la hausse
-- les cadres de hausse
 
-# la récolte
 
-- chasse abeille
-- brosse à abeille
-- souffleur
-
-## l'extraction
-
-- bac à désoperculer
-- couteau à désoperculer
-- extracteur
-- seaux
-- bocaux
-- balance
 
 
