@@ -204,6 +204,8 @@ Ma colonie était sauve, ma reine récupérée, mais la ruche était encore en s
 Le but était maintenant de diminuer la fièvre d'essaimage dans cette ruche. J'avais à ma disposition dans la ruche trois cellules royales, de quoi élever une nouvelle reine vierge ! 
 Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois cadres de couvain de mes deux ruches, avec les abeilles sur ces cadres, et emmené tout ce petit monde à quelques kilomètres de là, chez mon père qui allait faire nourrice pendant quelques semaines, le temps que la nouvelle reine naisse et fasse sont vol nuptial.
 
+32"00 
+
 ## Pendant ce temps, à Vera Cruzz (Saint Branchs)
 
 
