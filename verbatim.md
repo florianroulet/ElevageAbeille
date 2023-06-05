@@ -250,14 +250,20 @@ On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va e
 
 41"00
 
+# La prévention sanitaire
 
+Les tâches restantes à l'apiculteurs vont être de s'assurer de la bonne tenue sanitaire de ses ruches. 
+Différents prédateurs existent, plus ou moins fatals pour les colonies. 
+- varroa destructor : accarien qui se nourri de l'hémolymphe de l'abeille. Le traitement contre le varroa est le seul traitement obligatoire de la ruche et la réalisation du traitement doit pouvoir être démontré. Il est la cause N°1 des pertes de colonies
+- Frelon asiatique : On ne le présente plus. La recherche scientifique annonce régulièrement de nouvelles avancé dans la lutte contre ce prédateur.
+- Aethina tumida : petit coléoptère de la ruche, consomme les réserves de nourriture.
+- la fausse teigne : détruit la cire 
 
-
-## le rôle de l'apiculteur
-
-- survie de la colonie
-- réduction de la fièvre d'essaimage
-- prévenir les risques sanitaires
+les maladies : 
+- loque américaine
+- loque européenne
+- noséomose
+- ...
 
 
 
