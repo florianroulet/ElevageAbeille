@@ -64,13 +64,13 @@ Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce q
 
 ## transfert dans la ruche
 
-Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de tranvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que cest une colonie ?
+Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de transvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que c'est une colonie ?
 
 11"00
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
-Une colonie d'abeille, c'est un ensemble d'individu, dont le nombre va varier au cours de l'année de quelques centaines, à la sortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été).
+Une colonie d'abeille, c'est un ensemble d'individu, on peut aussi parler de superorganisme, au sens où l'ensemble des individus agira de concert, dont le nombre va varier au cours de l'année de quelques centaines, à la sortie de l'hiver, à 80.000 individus au plus fort de la saison (~solstice d'été).
 
 Une colonie va vivre dans une ruche sous la forme d'une sphère, un ballon réparti sur l'ensemble des cadres de la ruche. 
 Ce ballon va être plus ou moins grand selon la taille de la colonie. Une colonie en plein essort aura tendance à occuper toute la ruche, tandis qu'une colonie en sortie d'hivernage pourra parfois descendre à la taille d'un balle de tennis.
@@ -80,7 +80,7 @@ Ce ballon va être plus ou moins grand selon la taille de la colonie. Une coloni
 - La reine
 - Les faux bourdons
 
-Oui, une colonie est une très grande famille dans laquelle les milliers d'individus ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
+Une colonie est une très grande famille dans laquelle les milliers d'individus ont tous la même mère, et on peut même préciser que c'est majoritairement une très grande sororité avec quelques mâles à la marge.
 
 Mais quel va être le rôle de ces différents individus dans la colonie ? 
 
@@ -88,7 +88,7 @@ Mais quel va être le rôle de ces différents individus dans la colonie ?
 
 ### La reine
 
-La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  meme si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
+La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  même si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
 Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
@@ -103,7 +103,7 @@ Les couleurs de marquage normalisé sont
 - Rouge pour les années en 3 ou 8
 - Vert pour les années en 4 ou 9
 
-Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. Ont essayera de ne pas garder des cadres plus de 3 à 4 ans pour limiter les risques de maladies.
+Ce code couleur est utilisé pour les reines, mais aussi pour le renouvellement du matériel. On essayera de ne pas garder des cadres plus de 3 à 4 ans pour limiter les risques de maladies.
 
 Le rôle de la reine est donc multiple, garder une cohésion au sein de la colonie, pondre pour renouveller et agrandir la population de la colonie et produire des mâles pour assurer la fécondation des reines vierge des alentours. 
 
@@ -176,7 +176,7 @@ Je prend mes outils :
 - Le lève-cadre
 - L'enfumoir
 
-Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans le cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
+Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans mon cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
 27"00
 
