@@ -262,7 +262,7 @@ Différents prédateurs existent, plus ou moins fatals pour les colonies.
 les maladies : 
 - loque américaine
 - loque européenne
-- noséomose
+- noséomose, noséma ceranae
 - ...
 
 # Prochaine miellé en été
