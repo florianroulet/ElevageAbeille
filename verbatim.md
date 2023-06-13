@@ -1,3 +1,20 @@
+---
+title: Report 
+author: Tom Brown 12345678
+date: August 2018
+toc: true
+numbersections: true
+geometry: margin=2.5cm
+urlcolor: blue
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \lfoot{Draft Prepared: 15 August 2018}
+    \rfoot{Page \thepage}
+---
+
+\newpage{}
+
 Bonjour tout le monde,
 
 merci d'être venu assister à cette présentation sur un sujet qui n'est absolument pas lié à l'informatique et au développment logiciel.
@@ -19,6 +36,8 @@ En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une 
 
 2"35
 
+\newpage{}
+
 # Une petite histoire
 
 Comme je vous le disais juste avant, il y a de cela 18 mois, je n'avais jamais ouvert une ruche, j'étais plutôt (et je le suis encore) assez effrayé par les piqûres d'abeille, guêpes et autres frelons et jamais je n'aurais pensé trouver une activité de pleine nature avec un bonus alimentaire (oui, je parle du miel) qui d'un côté me fait craindre un peu et de l'autre apporte pas mal de sérénité.
@@ -30,6 +49,8 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 
 5"00
 
+\newpage{}
+
 # L'élevage des abeilles
 
 Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vit d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
@@ -37,6 +58,8 @@ Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeil
 Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril où j'ai installé mes deux ruches au fond de mon jardin.
 
 6"00
+
+\newpage{}
 
 # L'enruchement
 
@@ -46,6 +69,9 @@ Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arri
 Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce qu'il nous faut pour faire une ruche ?
 
 7"00 
+
+
+\newpage{}
 
 ## la ruche
 
@@ -62,11 +88,16 @@ Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce q
 
 10"00
 
+
+\newpage{}
+
 ## transfert dans la ruche
 
 Donc pour enrucher les colonies, on va remplacer sur son support la ruche actuelle par la nouvelle ruche. L'ancienne ruche avec la colonie est posé juste à côté le temps de transvaser l'ensemble des cadres en faisant l'inspection de la colonie. Cette inspection va consister à s'assurer de la bonne vitalité de la colonie, de la présence de la reine et d'une quantité suffisante d'abeille et de couvain. On s'assure d'avoir une colonie saine, mais qu'est-ce que c'est une colonie ?
 
 11"00
+
+\newpage{}
 
 ## La colonie d'abeille / l'abeille Apis Melifera
 
@@ -85,6 +116,9 @@ Une colonie est une très grande famille dans laquelle les milliers d'individus 
 Mais quel va être le rôle de ces différents individus dans la colonie ? 
 
 12"30
+
+
+\newpage{}
 
 ### La reine
 
@@ -109,6 +143,8 @@ Le rôle de la reine est donc multiple, garder une cohésion au sein de la colon
 
 15"00
 
+\newpage{}
+
 ### Le faux bourdon
 
 Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
@@ -116,6 +152,8 @@ Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une a
 On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d e l'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
 16"30
+
+\newpage{}
 
 ### L'ouvrière
 
@@ -137,6 +175,8 @@ Son rôle évoluera selon son âge, les durées que je vais vous donner son une 
 
 18"00
 
+\newpage{}
+
 # Retour à l'enruchement
 
 Comme on viens de voir, on va s'assurer le jour de l'enruchement que notre colonie est saine, contient bien une reine qui nous assure une bonne ponte et un renouvellement de la colonie, un nombre d'ouvrière conséquent, quelques mâles pour assurer la fécondation de future éventuelles reines vierges et si les conditions sont bonnes, des réserves de nourriture.
@@ -147,6 +187,8 @@ Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de 
 
 20"30
 
+\newpage{}
+
 # Les visites hebdomadaires
 
 Une fois mes ruches installées au fond de mon jardin, je vais devoir m'en occuper. Il existe plusieurs écoles de pensées dans la façon de s'occuper de ses colonies. Certains apiculteurs auront tendance à laisser faire, d'autres à intervenir régulièrement. Je serais plutôt dans la seconde catégorie, sachant que chaque intervention dans la ruche nous coûte en miel. En effet, lorsque l'on intervient, on va casser des parties de cire de la ruche que les abeilles devront reconstruire, et on dit qu'un kilo de cire créé par les abeilles, c'est 10 kilos de miel non produit. Donc il faut trouver le juste milieu entre intervenir assez pour que la colonie se porte bien, mais pas trop pour ne pas l'empêcher de faire son oeuvre.
@@ -154,6 +196,8 @@ Une fois mes ruches installées au fond de mon jardin, je vais devoir m'en occup
 Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bien pour réduire la fièvre d'essaimage et ne pas laisser les colonies en désuétude et pour moi, profiter de l'activité sans en faire une gageure.
 
 22"00
+
+\newpage{}
 
 ## trois semaines plus tard
 
@@ -163,6 +207,8 @@ Vous devinez ce qui va m'arriver ?
 
 Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je vois que quelque chose n'est pas normal. Ça vole de partout au fond du jardin. Pas trop le temps de réfléchir, je vais faire ma visite pour essayer de comprendre ce qu'il se passe. J'enfile l'ensemble de mes équipements : 
 
+\newpage{}
+
 ### les EPI
 
 - La combinaison,
@@ -170,6 +216,8 @@ Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je v
 - les chaussures (hautes)
 
 Je prend mes outils : 
+
+\newpage{}
 
 ### les outils de l'apiculteur à la ruche
 
@@ -179,6 +227,8 @@ Je prend mes outils :
 Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans mon cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
 27"00
+
+\newpage{}
 
 ## l'essaimage
 
@@ -199,12 +249,16 @@ Ma colonie était sauve, ma reine récupérée, mais la ruche était encore en s
 
 31"00 
 
+\newpage{}
+
 ### Un nouvel essaim
 
 Le but était maintenant de diminuer la fièvre d'essaimage dans cette ruche. J'avais à ma disposition dans la ruche trois cellules royales, de quoi élever une nouvelle reine vierge ! 
 Après l'achat d'une ruchette (ruche 6 cadre polystyrène), j'ai donc pris trois cadres de couvain de mes deux ruches, avec les abeilles sur ces cadres, et emmené tout ce petit monde à quelques kilomètres de là, chez mon père qui allait faire nourrice pendant quelques semaines, le temps que la nouvelle reine naisse et fasse sont vol nuptial.
 
 32"00 
+
+\newpage{}
 
 ## Pendant ce temps, à Vera Cruzz (Saint Branchs)
 
@@ -219,6 +273,8 @@ Pendant ces quelques semaines, le printemps s'est bien installé et la nature fl
 Pour ma première saison, je part de 0, les abeilles doivent donc tout construire. Je leur ai posé des cadres gaufrés, a elle d'étirer la cire et de remplir les cadres pour stocker du bon miel de printemps. Les visites hebsdomadaire continuent pour s'assurer que tout se passe bien dans le corps de ruche. Et j'ai pu la semaine dernière débuter ma première récolte.
 
 33"30
+
+\newpage{}
 
 # la récolte
 
@@ -235,6 +291,8 @@ Une fois la récolte faite, on peux passer à l'extraction.
 
 39"00
 
+\newpage{}
+
 # l'extraction
 
 Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage des rayons de cire à la centrifugation des cadres, le but est de récupérer le miel stocké par les abeilles.
@@ -249,6 +307,8 @@ On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va e
 - balance
 
 41"00
+
+\newpage{}
 
 # La prévention sanitaire
 
@@ -265,6 +325,8 @@ les maladies :
 - noséomose, noséma ceranae
 - ...
 
+\newpage{}
+
 # Prochaine miellé en été
 
 # troisième ruche
@@ -276,6 +338,5 @@ les maladies :
 - pollen
 - propolys
 - venin d'abeille
-
 
 
