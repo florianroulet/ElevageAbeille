@@ -1,7 +1,7 @@
 ---
-title: Report 
-author: Tom Brown 12345678
-date: August 2018
+title: Avant, je supprimai des bugs, maintenant j'élève des abeilles 
+author: Roulet Florian
+date: Juin 2023
 toc: true
 numbersections: true
 geometry: margin=2.5cm
@@ -9,7 +9,6 @@ urlcolor: blue
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \lfoot{Draft Prepared: 15 August 2018}
     \rfoot{Page \thepage}
 ---
 
