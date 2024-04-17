@@ -19,7 +19,7 @@ Bonjour tout le monde,
 merci d'être venu assister à cette présentation sur un sujet qui n'est absolument pas lié à l'informatique et au développment logiciel.
 Aujourd'hui, j'avais envie de vous parler d'abeille, plus particulièrement d'apis méliféra.
 
-Pour commencer, comme il se doit pour briser la glace entre un orateur et son auditoir, j'avais envi de vous poser quelques questions : 
+Pour commencer, comme il se doit pour briser la glace entre un orateur et son auditoire, j'avais envi de vous poser quelques questions : 
 - Qui ici aime le miel ? 
 - Qui sais comment est fait le miel ? 
 - Qui a déjà ouvert une ruche ? 
