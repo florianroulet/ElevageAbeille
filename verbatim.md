@@ -19,7 +19,7 @@ Bonjour tout le monde,
 merci d'être venu assister à cette présentation sur un sujet qui n'est absolument pas lié à l'informatique et au développment logiciel.
 Aujourd'hui, j'avais envie de vous parler d'abeille, plus particulièrement d'apis méliféra.
 
-Pour commencer, comme il se doit pour briser la glace entre un orateur et son auditoire, j'avais envi de vous poser quelques questions : 
+Pour commencer, comme il se doit pour briser la glace entre un orateur et son auditoire, j'avais envie de vous poser quelques questions : 
 - Qui ici aime le miel ? 
 - Qui sais comment est fait le miel ? 
 - Qui a déjà ouvert une ruche ? 
@@ -121,7 +121,7 @@ Mais quel va être le rôle de ces différents individus dans la colonie ?
 
 ### La reine
 
-La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique où les choses sont *** prédictible (c'est pas le bon mot) *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  même si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
+La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique qui est majoritairement *** déterministe *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  même si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
 Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
