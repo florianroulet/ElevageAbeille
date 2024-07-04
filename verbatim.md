@@ -138,7 +138,7 @@ La reine est la mère de l'ensemble des individus de la colonie. Elle est normal
 Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
 ## Diapo 11
-Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
+Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. Elle est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
 
 14"00
 
