@@ -13,6 +13,7 @@ header-includes: |
 ---
 
 \newpage{}
+# Diapo 1
 
 Bonjour tout le monde,
 
@@ -20,15 +21,19 @@ merci d'être venu assister à cette présentation sur un sujet qui n'est absolu
 Aujourd'hui, j'avais envie de vous parler d'abeille, plus particulièrement d'apis méliféra.
 
 Pour commencer, comme il se doit pour briser la glace entre un orateur et son auditoire, j'avais envie de vous poser quelques questions : 
-- Qui ici aime le miel ? 
+# Diapo 2
+- Qui ici aime le miel ?
 - Qui sais comment est fait le miel ? 
 - Qui a déjà ouvert une ruche ? 
 
 Et une petite dernière pour la postérité : 
 - Qui est "allergique" / sensible aux piqûres d'abeilles ? 
 
+# Diapo 3
+
 Pour ma part, il y a un peu plus d'un an de cela, je n'avais jamais ouvert une ruche, et je ne m'en étais encore moins jamais approché car je savais que petit, j'étais sensible aux piqûres d'abeilles.
 
+# Diapo 4
 Je voulais aussi poser une phrase avant de rentrer dans le vif du sujet. Elle n'est pas de moi, je l'ai vu sur le profil d'un certain "Lucifuge" sur twitter : 
 "Installer des ruches pour sauver les abeilles c'est aussi malin que d'installer des élevages de vaches pour sauver les mammifères sauvages".
 En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une représentante de la très grande famille des polénisateurs. En effet, on recense dans le monde 20.000 espèces d'abeilles, dont 1000 en France. La majorité sont des abeilles solitaires et ne fondent pas de colonie pérenne (au sens de la survie d'une année à l'autre). Si vous souhaitez aider à sauvegarder les polinisateurs, je vous invite plutôt à regarder du côté des hotels à insectes, tontes modéré et autres jachères fleuries.
@@ -38,6 +43,7 @@ En gros, Apis méliféra, notre abeille mélifère semi-domestique n'est qu'une 
 \newpage{}
 
 # Une petite histoire
+# Diapo 5
 
 Comme je vous le disais juste avant, il y a de cela 18 mois, je n'avais jamais ouvert une ruche, j'étais plutôt (et je le suis encore) assez effrayé par les piqûres d'abeille, guêpes et autres frelons et jamais je n'aurais pensé trouver une activité de pleine nature avec un bonus alimentaire (oui, je parle du miel) qui d'un côté me fait craindre un peu et de l'autre apporte pas mal de sérénité.
 
@@ -51,7 +57,7 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 \newpage{}
 
 # L'élevage des abeilles
-
+# Diapo 6
 Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vit d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
 
 Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril où j'ai installé mes deux ruches au fond de mon jardin.
@@ -64,8 +70,11 @@ Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se
 
 La première rencontre entre un néo-apiculteur et ses colonies se passe le jour de l'enruchement. L'enruchement est l'action de transférer une colonie d'abeille de sa ruche actuelle, qui appartient à l'éleveur d'origine, à sa ruche définitive (la mienne quoi). 
 Cette action se passe sur le terrain de l'apiculteur. Pour ma part, je suis arrivé en me garant un peu trop près du rucher, et ça a commencé dès la descente de la voiture par une piqûre juste au dessus de la paupière qui m'a valu un oeil gonflé impossible à ouvrir pendant trois jours.
+# Diapo 7
 
 Donc l'enruchement, c'est transférer la colonie dans sa ruche, mais qu'est-ce qu'il nous faut pour faire une ruche ?
+
+# Diapo 8
 
 7"00 
 
@@ -120,15 +129,19 @@ Mais quel va être le rôle de ces différents individus dans la colonie ?
 \newpage{}
 
 ### La reine
+# Diapo 9
 
 La reine est la mère de l'ensemble des individus de la colonie. Elle est normalement la seule abeille fertile et fécondé d'une colonie. Oui, normalement, car contrairement à l'informatique qui est majoritairement *** déterministe *** , en apiculture, nous sommes sur du vivant et des anomalies peuvent arriver assez régulièrement. Il peut arriver d'avoir plusieurs reine dans une ruche,  même si en général elles finissent soit par s'entre-tuer ou qu'une aille fonder une autre colonie, mais on reviendra sur ce cas. Il peut meme arriver qu'une ouvrière se mette à pondre en l'absence de reine, mais, n'étant pas fécondé, elle ne pondra que des oeufs de mâle et donc amènera la colonie à sa perte (on dit qu'elle est bourdonneuse).
 
+# Diapo 10
 Donc la reine est normalement la seule abeille fertile et fécondé d'une colonie. Elle est émet des phéromones qui vont amener une cohésion dans la ruche et faire savoir qu'elle est toujours là pour éviter aux ouvrière de construire des amorces de cellules royales, car dès que la colonie perd sa reine, elle va chercher à la remplacer au plus tôt.
 
+# Diapo 11
 Son espérance de vie est de 4 à 5 ans. D'un point de vue morphologique, son abdomen allongé la différencie des autres abeilles dans la ruche, un bel abdomen bien allongé montre sa bonne fertilisation. mais est en général marqué d'un point de couleur par l'apiculteur pour la retrouver plus facilement dans la ruche. La couleur de ce point dépend de l'année sur un cycle de 5 ans pour permettre d'un coup d'oeil de connaitre l'age de la reine dans une colonie.
 
 14"00
 
+# Diapo 12
 Les couleurs de marquage normalisé sont 
 - Bleu pour les années en 0 ou 5
 - Blanc pour les années en 1 ou 6
@@ -146,8 +159,11 @@ Le rôle de la reine est donc multiple, garder une cohésion au sein de la colon
 
 ### Le faux bourdon
 
+# Diapo 13
+
 Le faux bourdon, comme son nom l'indique, n'est pas un bourdon. C'est bien une abeille mais c'est le seul représentant mâle dans la ruche. Son rôle sera la fécondation d'une future reine. En attendant de remplir son rôle, il profitera de la colonie en mangeant à volonté. Sa maturité sexuelle arrivera vers l'age de 15 jours mais il ne s'accouplera qu'a partir de 30 à 40 jours. 
 
+# Diapo 14
 On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format beaucoup plus gros que les autres abeilles. Son unique rôle est donc la reproduction, mais ce sera aussi le dernier acte de sa vie puisqu'il meure lors d e l'accouplement ou sera rejeté des colonies si il essaye de revenir.
 
 16"30
@@ -156,8 +172,15 @@ On le reconnait dans la ruche à ses deux gros yeux sur la tête et son format b
 
 ### L'ouvrière
 
+# Diapo 15
 L'ouvrière est la population principale de la ruche. L'espérance de vie d'une ouvrière varie selon sa période de naissance, qui définira sa charge de travail tout au long de sa vie, de 20 jours pour une ouvrière de printemps, 40 jours pour une ouvrière d'été, 80 d'automne et 200 jours pour une ouvrière d'hiver dont le rôle sera d'assurer la survie de la colonie jusqu'au printemps suivant.
 
+# Diapo 16
+# Diapo 17
+# Diapo 18
+# Diapo 19
+
+# Diapo 20
 Son rôle évoluera selon son âge, les durées que je vais vous donner son une probabilité qu'elle joue ce rôle jusqu'à l'âge limite où elle laissera les plus jeunes jouer ce rôle.
 - nettoyeuse (~5 jours)
 - nourrice / alimentation du couvain (5-15 jours)
@@ -178,6 +201,7 @@ Son rôle évoluera selon son âge, les durées que je vais vous donner son une 
 
 # Retour à l'enruchement
 
+# Diapo 21
 Comme on viens de voir, on va s'assurer le jour de l'enruchement que notre colonie est saine, contient bien une reine qui nous assure une bonne ponte et un renouvellement de la colonie, un nombre d'ouvrière conséquent, quelques mâles pour assurer la fécondation de future éventuelles reines vierges et si les conditions sont bonnes, des réserves de nourriture.
 
 Pour moi, tout allait bien début avril lors de l'enruchement. J'ai pu me permettre même de conserver les butineuses en allant fermer la ruche sur le rucher de l'apiculteur le soir avant de ramener les ruches dans mon jardin le lendemain matin. Oui, car lorsque l'on va chercher une colonie, si l'apiculteur qui vend les colonies se trouve "loin", on ne peux pas se permettre de faire plusieurs aller-retour, on transvase la colonie, on ferme la ruche et on l'emmène. Ce n'était pas mon cas, car j'habite juste à quelques kilomètres du rucher de l'apiculteur qui m'a vendu les colonies.
@@ -189,9 +213,11 @@ Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de 
 \newpage{}
 
 # Les visites hebdomadaires
+# Diapo 22
 
 Une fois mes ruches installées au fond de mon jardin, je vais devoir m'en occuper. Il existe plusieurs écoles de pensées dans la façon de s'occuper de ses colonies. Certains apiculteurs auront tendance à laisser faire, d'autres à intervenir régulièrement. Je serais plutôt dans la seconde catégorie, sachant que chaque intervention dans la ruche nous coûte en miel. En effet, lorsque l'on intervient, on va casser des parties de cire de la ruche que les abeilles devront reconstruire, et on dit qu'un kilo de cire créé par les abeilles, c'est 10 kilos de miel non produit. Donc il faut trouver le juste milieu entre intervenir assez pour que la colonie se porte bien, mais pas trop pour ne pas l'empêcher de faire son oeuvre.
 
+# Diapo 23
 Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bien pour réduire la fièvre d'essaimage et ne pas laisser les colonies en désuétude et pour moi, profiter de l'activité sans en faire une gageure.
 
 22"00
@@ -203,8 +229,10 @@ Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bie
 Les premières visites hebdomadaire se passent à merveille. Les colonies sont populeuses, ce qui, si la météo est bonne, permettra de bonnes récoltes. Je trouve la reine à chaque fois, du couvain, ouvert et fermé. Par contre, j'ai beaucoup de mâles. Nous somme dans une année à essaimage me confirme mon maitre l'apiculteur. La météo, soit à la pluie, soit au fort vent en ce printemps, fait que les butineuses ne sortent pas et que la population diurne des ruches est trop importante, cela pousse les colonies à jeter la reine dehors pour qu'elle aille fonder une nouvelle colonie, c'est l'essaimage.
 
 Vous devinez ce qui va m'arriver ? 
+# Diapo 24
 
 Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je vois que quelque chose n'est pas normal. Ça vole de partout au fond du jardin. Pas trop le temps de réfléchir, je vais faire ma visite pour essayer de comprendre ce qu'il se passe. J'enfile l'ensemble de mes équipements : 
+# Diapo 25
 
 \newpage{}
 
@@ -295,8 +323,14 @@ Une fois la récolte faite, on peux passer à l'extraction.
 # l'extraction
 
 Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage des rayons de cire à la centrifugation des cadres, le but est de récupérer le miel stocké par les abeilles.
+# Diapo 26
+On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va enlever l'opercule des cadres, ce qui va permettre au miel de sortir des alvéoles. 
+# Diapo 27
 
-On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va enlever l'opercule des cadres, ce qui va permettre au miel de sortir des alvéoles. On passera ensuite les cadres dans une centrifugeuse qui fera sortir le miel qui sera ensuite filtré avant sa mise en seaux ou pot directement.
+On passera ensuite les cadres dans une centrifugeuse qui fera sortir le miel 
+# Diapo 28
+qui sera ensuite filtré avant sa mise en seaux ou pot directement.
+# Diapo 29
 
 - bac à désoperculer
 - couteau à désoperculer
@@ -310,7 +344,7 @@ On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va e
 \newpage{}
 
 # La prévention sanitaire
-
+# Diapo 30
 Les tâches restantes à l'apiculteurs vont être de s'assurer de la bonne tenue sanitaire de ses ruches. 
 Différents prédateurs existent, plus ou moins fatals pour les colonies. 
 - varroa destructor : accarien qui se nourri de l'hémolymphe de l'abeille. Le traitement contre le varroa est le seul traitement obligatoire de la ruche et la réalisation du traitement doit pouvoir être démontré. Il est la cause N°1 des pertes de colonies
