@@ -230,10 +230,9 @@ Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bie
 Les premières visites hebdomadaire se passent à merveille. Les colonies sont populeuses, ce qui, si la météo est bonne, permettra de bonnes récoltes. Je trouve la reine à chaque fois, du couvain, ouvert et fermé. Par contre, j'ai beaucoup de mâles. Nous somme dans une année à essaimage me confirme mon maitre l'apiculteur. La météo, soit à la pluie, soit au fort vent en ce printemps, fait que les butineuses ne sortent pas et que la population diurne des ruches est trop importante, cela pousse les colonies à jeter la reine dehors pour qu'elle aille fonder une nouvelle colonie, c'est l'essaimage.
 
 Vous devinez ce qui va m'arriver ? 
-## Diapo 24
 
 Lors de ma troisième visite aux ruche, avant même d'atteindre mon jardin, je vois que quelque chose n'est pas normal. Ça vole de partout au fond du jardin. Pas trop le temps de réfléchir, je vais faire ma visite pour essayer de comprendre ce qu'il se passe. J'enfile l'ensemble de mes équipements : 
-## Diapo 25
+
 
 \newpage{}
 
@@ -252,7 +251,9 @@ Je prend mes outils :
 - Le lève-cadre
 - L'enfumoir
 
-Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans mon cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
+Et je vais voir mes ruches. 
+## Diapo 24
+Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans mon cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
 27"00
 
@@ -260,6 +261,7 @@ Et je vais voir mes ruches. Avant d'arriver aux ruches, je vois quelque chose qu
 
 ## l'essaimage
 
+## Diapo 25
 L'essaimage est le moyen naturel de reproduction des colonies. Il est déclenché lors d'une surpopulation d'abeille dans la ruche. Les phéromones royales ne parviennent pas à l'ensemble de la colonie qui décide alors d'élever une nouvelle reine. L'ancienne reine quittera la colonie avec une bonne moitié des abeilles pour aller fonder une nouvelle colonie. 
 
 L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif.
