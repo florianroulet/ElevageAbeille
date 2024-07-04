@@ -207,7 +207,7 @@ Comme on viens de voir, on va s'assurer le jour de l'enruchement que notre colon
 
 Pour moi, tout allait bien début avril lors de l'enruchement. J'ai pu me permettre même de conserver les butineuses en allant fermer la ruche sur le rucher de l'apiculteur le soir avant de ramener les ruches dans mon jardin le lendemain matin. Oui, car lorsque l'on va chercher une colonie, si l'apiculteur qui vend les colonies se trouve "loin", on ne peux pas se permettre de faire plusieurs aller-retour, on transvase la colonie, on ferme la ruche et on l'emmène. Ce n'était pas mon cas, car j'habite juste à quelques kilomètres du rucher de l'apiculteur qui m'a vendu les colonies.
 
-Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de son rucher d'origine, sinon les butineuses retournerais au rucher d'origine et ce serait une partie de la colonie en moins pour la ruche. Une butineuse parcours en moyenne 1,5km, donc il est nécessaire lors d'un déplacement de ruche de déplacer à plus de 1,5km, ou bien de mettre la ruche (fermée bien sûr) en cave pendant 2-3 jours le temps de remettre à zéro le gps des butineuses.
+Ce point aussi est important, il ne faut pas déplacer une ruche trop proche de son rucher d'origine, sinon les butineuses retourneraient au rucher d'origine et ce serait une partie de la colonie en moins pour la ruche. Une butineuse parcours en moyenne 1,5km, donc il est nécessaire lors d'un déplacement de ruche de déplacer à plus de 1,5km, ou bien de mettre la ruche (fermée bien sûr) en cave pendant 2-3 jours le temps de remettre à zéro le gps des butineuses.
 
 20"30
 
