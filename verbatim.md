@@ -61,7 +61,7 @@ Leur idée m'a plu dès que j'en ai entendu parler. L'aventure d'apprendre à g�
 ## Diapo 6
 Quand on parle d'apiculture, on parle désormais réellement d'élevage. L'abeille moderne est semi-domestique, dans le sens où l'abeille est dans une situation intermédiaire entre l'animal sauvage et l'animal domestique. Elle vit d'une relation avec l'éleveur qui, par ses actions, doit permettre la survie de la colonie en échange de la récupération d'une partie des stocks accumulés par la colonie pendant la saison.
 
-Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril où j'ai installé mes deux ruches au fond de mon jardin.
+Pour vous parler de l'apiculture, j'avais envie de vous raconter comment cela se passe pour moi depuis début avril 2023 où j'ai installé mes deux premières ruches au fond de mon jardin.
 
 6"00
 
