@@ -227,7 +227,21 @@ Personnellement, je suis parti sur une visite hebdomadaire. Cela colle assez bie
 
 ## trois semaines plus tard
 
-Les premières visites hebdomadaire se passent à merveille. Les colonies sont populeuses, ce qui, si la météo est bonne, permettra de bonnes récoltes. Je trouve la reine à chaque fois, du couvain, ouvert et fermé. Par contre, j'ai beaucoup de mâles. Nous somme dans une année à essaimage me confirme mon maitre l'apiculteur. La météo, soit à la pluie, soit au fort vent en ce printemps, fait que les butineuses ne sortent pas et que la population diurne des ruches est trop importante, cela pousse les colonies à jeter la reine dehors pour qu'elle aille fonder une nouvelle colonie, c'est l'essaimage.
+Les premières visites hebdomadaire se passent à merveille. Les colonies sont populeuses, ce qui, si la météo est bonne, permettra de bonnes récoltes. 
+Je trouve la reine à chaque fois, 
+## Diapo 24
+une bonne présence de ponte (les oeufs)
+## Diapo 25
+du couvain, ouvert sous forme de larves 
+## Diapo 26
+et du couvain fermé, prêt à naitre.
+Les réserves de nourritures sous forme de pollen
+## Diapo 27
+ou bien sous forme de miel
+## Diapo 28
+sont bien présentent.
+
+Par contre, j'ai beaucoup de mâles. Nous somme dans une année à essaimage me confirme mon maitre l'apiculteur. La météo, soit à la pluie, soit au fort vent en ce printemps, fait que les butineuses ne sortent pas et que la population diurne des ruches est trop importante, cela pousse les colonies à jeter la reine dehors pour qu'elle aille fonder une nouvelle colonie, c'est l'essaimage.
 
 Vous devinez ce qui va m'arriver ? 
 
@@ -252,7 +266,8 @@ Je prend mes outils :
 - L'enfumoir
 
 Et je vais voir mes ruches. 
-## Diapo 24
+
+## Diapo 29
 Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout dans mon cerisier ! Un essaim d'abeille. Des milliers d'abeilles regroupées sur une branche. Bon, deux choses sont possibles : soit une ruche aux alentour a décidé d'essaimer et l'essaim s'est posé chez moi, peu probable. Soit une de mes ruches a décidé d'essaimer et je vais perdre la moitié d'une de mes colonie.
 
 27"00
@@ -261,7 +276,7 @@ Avant d'arriver aux ruches, je vois quelque chose qui ne me plait pas du tout da
 
 ## l'essaimage
 
-## Diapo 25
+## Diapo 30
 L'essaimage est le moyen naturel de reproduction des colonies. Il est déclenché lors d'une surpopulation d'abeille dans la ruche. Les phéromones royales ne parviennent pas à l'ensemble de la colonie qui décide alors d'élever une nouvelle reine. L'ancienne reine quittera la colonie avec une bonne moitié des abeilles pour aller fonder une nouvelle colonie. 
 
 L'essaim nouvellement créé fera son voyage en deux fois, une première étape où la reine sera guidé très proche de la ruche, permettant un regroupement de l'ensemble de l'essaim, à l'exception de quelques éclaireuses qui guiderons plus tard l'essaim vers un lieu favorable à la colonie. Un essaim peut voyager ainsi sur quelques kilomètres avant de se poser dans son lieu définitif.
@@ -326,14 +341,14 @@ Une fois la récolte faite, on peux passer à l'extraction.
 # l'extraction
 
 Historiquement, il existe plusieurs méthodes d'extraction. De l'extraction destructive par pressage des rayons de cire à la centrifugation des cadres, le but est de récupérer le miel stocké par les abeilles.
-## Diapo 26
+## Diapo 31
 On va donc procéder en plusieurs étapes, dans un bac à désoperculer, on va enlever l'opercule des cadres, ce qui va permettre au miel de sortir des alvéoles. 
-## Diapo 27
+## Diapo 32
 
 On passera ensuite les cadres dans une centrifugeuse qui fera sortir le miel 
-# Diapo 28
+# Diapo 33
 qui sera ensuite filtré avant sa mise en seaux ou pot directement.
-## Diapo 29
+## Diapo 34
 
 - bac à désoperculer
 - couteau à désoperculer
@@ -347,7 +362,7 @@ qui sera ensuite filtré avant sa mise en seaux ou pot directement.
 \newpage{}
 
 # La prévention sanitaire
-## Diapo 30
+## Diapo 35
 Les tâches restantes à l'apiculteurs vont être de s'assurer de la bonne tenue sanitaire de ses ruches. 
 Différents prédateurs existent, plus ou moins fatals pour les colonies. 
 - varroa destructor : accarien qui se nourri de l'hémolymphe de l'abeille. Le traitement contre le varroa est le seul traitement obligatoire de la ruche et la réalisation du traitement doit pouvoir être démontré. Il est la cause N°1 des pertes de colonies
@@ -364,6 +379,7 @@ les maladies :
 \newpage{}
 
 # Prochaine miellé en été
+## Diapo 36
 
 # troisième ruche
 
